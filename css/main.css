@@ -1,0 +1,115 @@
+.logo2 {
+  width: 80%;
+}
+
+.pesquisarbt {
+  border: 1px solid #25692A;
+  border-radius: 4px;
+  display: inline-block;
+  cursor: pointer;
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 13px;
+  padding: 6px 10px;
+  text-decoration: none;
+}
+
+.borderlist {
+  border: 1px solid black;
+  text-align: center;
+  /* Full-width inputs */
+  /* Set a style for all buttons */
+  /* Add a hover effect for buttons */
+  /* Extra style for the cancel button (red) */
+  /* Center the avatar image inside this container */
+  /* Avatar image */
+  /* Add padding to containers */
+  /* The "Forgot password" text */
+  /* Change styles for span and cancel button on extra small screens */
+}
+
+.borderlist .colorbkg {
+  background-color: aqua;
+}
+
+.borderlist .posicaomenu {
+  margin-right: 6.5%;
+}
+
+.borderlist form {
+  border: 3px solid #f1f1f1;
+}
+
+.borderlist input[type=email], .borderlist input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.borderlist button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.borderlist button:hover {
+  opacity: 0.8;
+}
+
+.borderlist .cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.borderlist .cadastrarbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: blue;
+}
+
+.borderlist .imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+.borderlist img.avatar {
+  width: 10%;
+  border-radius: 50%;
+}
+
+.borderlist .container {
+  padding: 16px;
+}
+
+.borderlist span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+@media screen and (max-width: 300px) {
+  .borderlist span.psw {
+    display: block;
+    float: none;
+  }
+  .borderlist .cancelbtn {
+    width: 100%;
+  }
+  .borderlist .cadastrarbtn {
+    width: 100%;
+  }
+}
+
+.borderlist .buttonmodal {
+  height: 25;
+  width: 25;
+}
+/*# sourceMappingURL=main.css.map */
