@@ -1,0 +1,39 @@
+.navbar-busca {
+  background: black;
+  height: 50px;
+  text-align: center;
+  border-radius: 10px;
+}
+tr{
+    background-color: white;
+    border-radius: 10px;
+
+}
+th{
+    background-color: black !important;
+    color: white;
+    
+}
+tbody{
+    border: 2 px solid black;
+    border-radius: 10px;
+
+}
+h1{
+    color: white;
+}
+.table2 {
+  margin-top: 20px;
+}
+body{
+    background-color: #ccc;
+}
+
+.voltarb{
+
+    background-color: black;
+    color: white;
+    border: 2px white solid;
+    border-radius: 10px;
+    font-size: 15px;
+}
